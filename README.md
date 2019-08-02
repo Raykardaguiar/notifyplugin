@@ -1,4 +1,4 @@
-# notifyplugin
+# Plugin de notificação
 
 Compativel com jQuery 1.7.0+ in Firefox, Safari, Chrome, Opera, Internet Explorer 7+. Nenhuma dependência exceto JQuery.
 
